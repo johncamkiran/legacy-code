@@ -1,12 +1,4 @@
--<img width="1080" alt="extracopularity-banner" src="https://user-images.githubusercontent.com/41493682/181186896-0c333843-a5bd-49c6-a6ff-51bd26bcb9ca.png">
-
-# Extracopularity in 3D Particle Packings
-
-Code for computing extracopularity coefficients in three-dimensional particle packings.
-
-## Description
-
-The [extracopularity coefficient](https://aip.scitation.org/doi/10.1063/5.0079985) is a local orientational order parameter for systems of interacting particles useful in the structural analysis of molecular dynamics simulations. In this repository, we provide implementations of our algorithm for computing extracopularity coefficients  in three-dimensional particle packings. A [MATLAB](https://www.mathworks.com/products/matlab.html) implementation is currently available, and a C++ implementation is under development. Our code accepts [LAMMPS](https://lammps.org/#gsc.tab=0) dump file inputs, which are easily visualized in [OVITO](https://www.ovito.org). Renderings of simulations analyzed by our code can be found on [YouTube](https://www.youtube.com/channel/UCHmFOd5L7Glrw6nyF8BoEqA).
+Legacy code from J. Chem. Phys. (2022) and Eur. Phys. J. B (2023)
 
 ## Getting started
 
